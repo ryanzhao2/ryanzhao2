@@ -1,4 +1,11 @@
-<h2 align="center">Hi 👋! My name is Ryan and I'm a CS student from Canada</h2>
+# Text Animation Example
+
+This example demonstrates how to animate text using HTML and CSS. The text fades in and moves slightly as it appears on the page.
+
+## HTML
+
+<h2 class="animated-text" align="center">Hi 👋! My name is Ryan and I'm a CS student from Canada</h2>
+
 
 ###
 
