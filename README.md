@@ -3,15 +3,9 @@
 </h1>
 
 
-
-###
-
-
-
 <br clear="both">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/ryanzhao2/ryanzhao2/output/snake.svg" alt="Snake animation" />
-</h1>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ryanzhao2/ryanzhao2/output/github-contribution-grid-snake.svg" /></h1>
 
 &nbsp;<div align="center">
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ryanzhao2)
