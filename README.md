@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=b3feff&center=true&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B+I'm+Ryan;Welcome+to+my+Github+page!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">I'm a CS student, minoring in Statistics @ McGill University.</h3>
+<h3 align="center">I'm a CS student minoring in Statistics @ McGill University.</h3>
 <br style="line-height: 0;"> <!-- Smaller line break -->
 <div align="center">
 
