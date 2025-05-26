@@ -1,7 +1,6 @@
-
-<h1 align="center">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=b3feff&center=true&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B+I'm+Ryan;Welcome+to+my+Github+page!" alt="Typing SVG" /></a>
-</h1>
+</div>
 
 ## :book: About me
 - 🖥 Software Engineer at Workerbee
@@ -16,7 +15,7 @@
 2. **[RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
 3. **[TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
 4. **[Streamlytics](https://github.com/ryanzhao2/Streamlytics)**:      📺 Streaming Service Data Analysis Tool
-5. **[VacationView](https://github.com/ryanzhao2/VacationView)**:     🤖 Resort Management & Registration Platform
+5. **[VacationView](https://github.com/ryanzhao2/VacationView)**:     🏨  Resort Management & Registration Platform
 
 <hr>
 <h1 align="center">
