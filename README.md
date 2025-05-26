@@ -3,14 +3,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=b3feff&center=true&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B+I'm+Ryan;Welcome+to+my+Github+page!" alt="Typing SVG" /></a>
 </h1>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 Engineer at Workerbee
+## :book: About me
+- 🖥 Software Engineer at Workerbee
 - 🎓 Computer Science Major, Statistics Minor @ McGill University
 - ⚡ Interested in ML and AI
 - 🔭 I’m currently working on my [Portfolio](https://github.com/ryanzhao2/Portfolio)
 - 💬 For inquiries, feel free to reach out at ryan.zhao2@gmail.com or over on <a href="https://www.linkedin.com/in/ryanzhao2/">Linkedin</a>.</p>
 
-## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 latest projects
+## 📜 List of my latest projects
 
 1. **[Climb5](https://github.com/ryanzhao2/Climb-5)**:        🧗 3D Rock Climbing Route Optimization Tool
 2. **[RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
