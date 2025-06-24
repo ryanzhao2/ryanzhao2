@@ -11,6 +11,7 @@
 
 ## 📜 List of my latest projects
 
+1. **[Netly](https://github.com/ryanzhao2/Netly)**:        🏀 Basketball Analysis Tool
 1. **[Climb5](https://github.com/ryanzhao2/Climb-5)**:        🧗 3D Rock Climbing Route Optimization Tool
 2. **[RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
 3. **[TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
