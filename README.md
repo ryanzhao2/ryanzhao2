@@ -16,7 +16,6 @@
 2. **[RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
 3. **[TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
 4. **[Streamlytics](https://github.com/ryanzhao2/Streamlytics)**:      📺 Streaming Service Data Analysis Tool
-5. **[VacationView](https://github.com/ryanzhao2/VacationView)**:     🏨  Resort Management & Registration Platform
 
 <hr>
 <h1 align="center">
