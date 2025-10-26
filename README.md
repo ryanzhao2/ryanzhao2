@@ -3,7 +3,7 @@
 </div>
 
 ## :book: About me
-- 🖥 Software Engineer at Workerbee
+- 🖥 Previous SWE at Workerbee
 - 🎓 Computer Science Major (AI Concentration), Statistics Minor @ McGill University
 - ⚡ Interested in ML and AI
 - 🔭 I’m currently working on my [Portfolio](https://github.com/ryanzhao2/Portfolio)
