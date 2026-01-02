@@ -6,7 +6,7 @@
 - 🖥 Previous SWE at Workerbee
 - 🎓 Computer Science Major (AI Concentration), Statistics Minor @ McGill University
 - ⚡ Interested in ML and AI
-- 🔭 I’m currently working on my [Portfolio](https://github.com/ryanzhao2/Portfolio)
+- 🔭 Currently building my [Portfolio](https://github.com/ryanzhao2/Portfolio)  
 - 💬 For inquiries, feel free to reach out at ryan.zhao2@gmail.com or over on <a href="https://www.linkedin.com/in/ryanzhao2/">Linkedin</a>.</p>
 
 ## 📜 List of my latest projects
