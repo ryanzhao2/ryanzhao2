@@ -3,19 +3,19 @@
 </div>
 
 ## :book: About me
-- 🖥 Previous SWE at Workerbee
+- 🖥 Incoming SWE Intern @ Loblaw Digital
 - 🎓 Computer Science Major (AI Concentration), Statistics Minor @ McGill University
 - ⚡ Interested in ML and AI
 - 🔭 Currently building my [Portfolio](https://github.com/ryanzhao2/Portfolio)  
 - 💬 For inquiries, feel free to reach out at ryan.zhao2@gmail.com or over on <a href="https://www.linkedin.com/in/ryanzhao2/">Linkedin</a>.</p>
 
-## 📜 List of my latest projects
+## 📜 Latest projects
 
-1. **[ParallelGP](https://github.com/ryanzhao2/ParallelGP)**:        🔢 Parallel Graph Processor
-2. **[Netly](https://github.com/ryanzhao2/Netly)**:        🏀 Basketball Analysis Tool
-3. **[Climb5](https://github.com/ryanzhao2/Climb-5)**:        🧗 3D Rock Climbing Route Optimization Tool
-4. **[RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
-5. **[TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
+- **[ParallelGP](https://github.com/ryanzhao2/ParallelGP)**:        🔢 Parallel Graph Processor
+- **[Netly](https://github.com/ryanzhao2/Netly)**:        🏀 Basketball Analysis Tool
+- **[Climb5](https://github.com/ryanzhao2/Climb-5)**:        🧗 3D Rock Climbing Route Optimization Tool
+- [RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
+- [TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
 
 <hr>
 <h1 align="center">
