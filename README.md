@@ -19,7 +19,6 @@
 
 <hr>
 <h1 align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ryanzhao2/ryanzhao2/output/github-contribution-grid-snake.svg" />
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ryanzhao2)
 [![Gmail Badge](https://img.shields.io/badge/-ryan.zhao2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=blue&link=mailto:ryan.zhao2@gmail.com)](mailto:ryan.zhao2@gmail.com)
