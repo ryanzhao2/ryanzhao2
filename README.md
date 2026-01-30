@@ -3,7 +3,7 @@
 </div>
 
 ## :book: About me
-- 🖥 Incoming SWE Intern @ Loblaw Digital
+- 🖥 SWE Intern @ Loblaw Digital
 - 🎓 Computer Science Major (AI Concentration), Statistics Minor @ McGill University
 - ⚡ Interested in ML and AI
 - 🔭 Currently building my [Portfolio](https://github.com/ryanzhao2/Portfolio)  
