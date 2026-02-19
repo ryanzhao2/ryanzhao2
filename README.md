@@ -14,8 +14,8 @@
 - **[ParallelGP](https://github.com/ryanzhao2/ParallelGP)**:        🔢 Parallel Graph Processor
 - **[Netly](https://github.com/ryanzhao2/Netly)**:        🏀 Basketball Analysis Tool
 - **[Climb5](https://github.com/ryanzhao2/Climb-5)**:        🧗 3D Rock Climbing Route Optimization Tool
-- [RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
-- [TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
+- **[RhinoAI](https://github.com/ryanzhao2/Rhino-AI)**:              🛍️ AI Shopping Assistant Chatbot
+- **[TrendTracker](https://github.com/ryanzhao2/TrendTracker)**:          📈 Stock Price Forecasting Application
 
 <hr>
 <h1 align="center">
