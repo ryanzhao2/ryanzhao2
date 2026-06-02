@@ -3,7 +3,7 @@
 </div>
 
 ## :book: About me
-- 🖥 Incoming SDE Intern @ Amazon
+- 🖥 SDE Intern @ Amazon
 - 🎓 CS @ McGill
 - ⚡ Prev @ Loblaw Digital
 - 🔭 Currently building my [Portfolio](https://github.com/ryanzhao2/Portfolio)  
