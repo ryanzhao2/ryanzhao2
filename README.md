@@ -1,6 +1,6 @@
 <div align="center">
 
-# R Y A N  &nbsp;Z H A O
+# *Ryan Zhao*
 SWE Intern @ Amazon &nbsp;·&nbsp; *CS @ McGill*
 
 —
