@@ -1,7 +1,7 @@
 <div align="center">
 
 # R Y A N  &nbsp;Z H A O
-**SDE Intern @ Amazon** &nbsp;·&nbsp; *CS @ McGill*
+SWE Intern @ Amazon &nbsp;·&nbsp; *CS @ McGill*
 
 —
 
