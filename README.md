@@ -1,7 +1,7 @@
 <div align="center">
 
 # *Ryan Zhao*
-SWE Intern @ Amazon &nbsp;·&nbsp; *CS @ McGill*
+*CS @ McGill* &nbsp;·&nbsp; Prev SDE @ Amazon
 
 —
 
